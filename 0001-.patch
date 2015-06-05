@@ -1,19 +1,22 @@
-From 196c83a0997011040e7a9421b7e0b305c02beaef Mon Sep 17 00:00:00 2001
+From 65ae53a2960e54968d93137775f14684f6a79276 Mon Sep 17 00:00:00 2001
 From: antaojin <931964335@qq.com>
-Date: Fri, 5 Jun 2015 13:40:12 +0800
-Subject: [PATCH] =?UTF-8?q?=E7=9A=84=E6=B7=A1=E6=B7=A1=E7=9A=84?=
+Date: Fri, 5 Jun 2015 13:44:48 +0800
+Subject: [PATCH 1/2] =?UTF-8?q?=E5=A4=9A=E5=AF=B9=E5=A4=9A?=
 MIME-Version: 1.0
 Content-Type: text/plain; charset=UTF-8
 Content-Transfer-Encoding: 8bit
 
 ---
- ...0\345\273\272\346\226\207\346\234\254\346\226\207\346\241\243 (2).txt" | 0
- 1 file changed, 0 insertions(+), 0 deletions(-)
- create mode 100644 "\346\226\260\345\273\272\346\226\207\346\234\254\346\226\207\346\241\243 (2).txt"
+ helo.txt | 1 +
+ 1 file changed, 1 insertion(+)
 
-diff --git "a/\346\226\260\345\273\272\346\226\207\346\234\254\346\226\207\346\241\243 (2).txt" "b/\346\226\260\345\273\272\346\226\207\346\234\254\346\226\207\346\241\243 (2).txt"
-new file mode 100644
-index 0000000..e69de29
+diff --git a/helo.txt b/helo.txt
+index e69de29..8dfdd4d 100644
+--- a/helo.txt
++++ b/helo.txt
+@@ -0,0 +1 @@
++Äã¶®µÃµÄ
+\ No newline at end of file
 -- 
 1.9.2.msysgit.0
 
